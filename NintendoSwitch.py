@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-import numpy as np
 import requests
 from bs4 import BeautifulSoup
 
